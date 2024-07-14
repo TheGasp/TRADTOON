@@ -10,6 +10,9 @@ Toutes les langues disponibles dans tesseract sont utilisables bien que les perf
 
 Voila ci dessous un exemple d'une traduction de Webtoon de l'anglais vers le francais.
 
+![Uploading Image3.gif…]()
+
+
 
 ## API et Bibliothèques nécessaires
 
