@@ -21,7 +21,7 @@ Voila ci dessous un exemple d'une traduction de Webtoon de l'anglais vers le fra
 
 | Parametre | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `API_KEY_TRAD ` | `string` | **Required**. Votre clés pour l'API de traduction DeepL |
+| `API_KEY_TRAD ` | `string` | **Required**. Votre clé pour l'API de traduction DeepL |
 
 #### Bibliothèques
 
