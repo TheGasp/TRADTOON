@@ -5,7 +5,8 @@ import deepl
 import os
 
 #Initialisation
-translator = deepl.Translator("Votre clé")
+API_KEY_TRAD = "Votre clé"
+translator = deepl.Translator(API_KEY_TRAD)
 font = cv2.FONT_HERSHEY_SIMPLEX #police de caractére
 inter_espace = 0.25 #pourcentage de la hauteur de la ligne entre chaque ligne
 font_thickness = 2 #Valeur de calcul pas forcement de representation
